@@ -1,0 +1,41 @@
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Opening the solution
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Opening the users and groups directory
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Users and groups directory opened (duration: 52 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Opening the project
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Opening the database
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Database opened (duration: 6 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Project opened (duration: 20 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Opening the project
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Solution opened (duration: 108 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Starting the solution
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Starting the project
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Starting the HTTP server
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - HTTP server started (duration: 34 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Project started (duration: 84 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Starting the project
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Starting the HTTP server
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Project started (duration: 91 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Executing the bootstrap(s)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Bootstrap(s) executed (duration: 6 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-05-01 14:05:48 [com.wakanda-software.DontForgetJQueryUI] INFO - Solution started (duration: 191 ms)
+2013-05-01 14:11:26 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Closing the database
+2013-05-01 14:11:26 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Database closed (duration: 459 ms)
+2013-05-01 14:11:26 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Opening the database
+2013-05-01 14:11:26 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Database opened (duration: 13 ms)
+2013-05-01 14:11:43 [com.wakanda-software.DontForgetJQueryUI] INFO - Stopping the solution
+2013-05-01 14:11:43 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Stopping the project
+2013-05-01 14:11:45 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Project stopped (duration: 2075 ms)
+2013-05-01 14:11:45 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Stopping the project
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Project stopped (duration: 2078 ms)
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI] INFO - Solution stopped (duration: 4155 ms)
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI] INFO - Closing the solution
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Closing the project
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Closing the database
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Database closed (duration: 407 ms)
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.DontForgetJQueryUI] INFO - Project closed (duration: 407 ms)
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Closing the project
+2013-05-01 14:11:47 [com.wakanda-software.DontForgetJQueryUI.ServerAdmin] INFO - Project closed (duration: 4 ms)
