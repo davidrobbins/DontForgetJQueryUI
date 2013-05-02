@@ -10,6 +10,7 @@
 	
 	if (value != null && attname != null && classname != null)
 	{
+		
 		var arr = ds[classname].query(attname+" == :1", value+"*").toArray(attname, "withKey", 0,20);
 		arr.forEach(function(elem) {
 			var v = elem[attname];
